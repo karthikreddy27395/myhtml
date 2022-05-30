@@ -38,4 +38,8 @@ echo "hi this is karthik's website" >index.html
      //the html page will be displayed
 
 
+IMPROVEMENTS:
+
+    to maintain high availablity.we can create more number of containers on the same host 
+
 
