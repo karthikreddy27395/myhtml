@@ -1,4 +1,4 @@
-deploying a html website
+deploying a html website        
 create a amazon linux machine and also give http port 80 in security groups while cretaing it
 download mobaxterm in your laptop
 copy amazon linux instance public ip address
